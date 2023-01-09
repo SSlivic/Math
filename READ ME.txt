@@ -1,0 +1,9 @@
+Math
+
+Na računalniku mora biti instaliran java development kit(jdk).
+Programa se zažene klikom na file Math\dist\Matematika.jar
+
+Programa je oblikovna tako da so naloge date v štiri skupine, od prvega do četrtega razreda.
+V nalogah obstajajo opcije pokazovanja rezultata (klikom na Results) in dajanja novih nalog(klikom na refresh) 
+
+Izdelava programa je trajala tri dni.
